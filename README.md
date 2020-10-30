@@ -29,9 +29,9 @@
 
 <h3 id='description'>Description of Project</h3>
 <p>This is a professional portfolio for potential employers to browse. As I am beginning my job search, I wanted a showcase piece that I could provide to potential employers that would give them examples of my coding abilities. 
-This project has been added to my professional portfolio, the link can be found here:
+The link to the deployed application can be found here:
 
-<a href="https://powerful-journey-53780.herokuapp.com/">Julie Schaub Professional Portfolio</a></p><br>
+<a href="https://julieann2330.github.io/jschaub-portfolio/">Julie Schaub Professional Portfolio</a></p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
 <hr color= "slateblue" noshade>
