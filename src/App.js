@@ -20,10 +20,9 @@ function App() {
   <Route  path="/portfolio" component={Portfolio} />
   <Route  path="/contact" component={Contact} />
  </Switch>
-    </Router>
     <Footer />
+    </Router>
   </React.Fragment>
-
 
   );
 }             
