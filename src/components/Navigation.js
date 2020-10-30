@@ -1,6 +1,7 @@
 import React from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 const Styles = styled.div`
   .navbar { background-color: transparent}
@@ -15,10 +16,10 @@ export const Navigation = () => (
      <Navbar.Toggle aria-controls="basic-navbar-nav"/>
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
-          <Nav.Item><a href="/">Home</a></Nav.Item>
-          <Nav.Item><a href="/about">About</a></Nav.Item>
-          <Nav.Item><a href="/portfolio">Portfolio</a></Nav.Item>
-          <Nav.Item><a href="/contact">Contact</a></Nav.Item> 
+          <Nav.Item><Link to="/">Home</Link></Nav.Item>
+          <Nav.Item><Link to="/about">About</Link></Nav.Item>
+          <Nav.Item><Link to="/portfolio">Portfolio</Link></Nav.Item>
+          <Nav.Item><Link to="/contact">Contact</Link></Nav.Item> 
         </Nav>
       </Navbar.Collapse>
     </Navbar>
