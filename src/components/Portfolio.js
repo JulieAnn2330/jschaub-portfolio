@@ -5,7 +5,8 @@ import Burger from '../images/Burger.PNG';
 import SpaceX from '../images/Nasa.PNG';
 import Workout from '../images/Workout.PNG';
 import Employee from '../images/Employee.PNG';
-import Weather from '../images/Weather.PNG'
+import Weather from '../images/Weather.PNG';
+import Books from '../images/GoogleBooks.PNG';
 import Carousel from 'react-bootstrap/Carousel';
 
 export function Portfolio() {
@@ -51,8 +52,20 @@ export function Portfolio() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={ Employee }
+          src={ Books }
           alt="Third slide"
+        />
+        <Carousel.Caption>
+          <h3>Google Books Library</h3>
+          <p className="carouselText"><a href="https://github.com/JulieAnn2330/Google-Books-Library" target="_blank" rel="noopener noreferrer">Link to GitHub Repo</a>  |  <a href="https://vast-peak-23165.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link to Deployed App</a></p>
+        </Carousel.Caption>
+      </Carousel.Item>
+
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src={ Employee }
+          alt="Fourth slide"
         />
         <Carousel.Caption>
           <h3 className="label3">Midtown Full Stack Employee Directory</h3>
@@ -64,7 +77,7 @@ export function Portfolio() {
         <img
           className="d-block w-100"
           src={ Burger }
-          alt="Fourth slide"
+          alt="Fifth slide"
         />
         <Carousel.Caption>
           <h3 className="caption">Eat-Da-Burger</h3>
@@ -76,7 +89,7 @@ export function Portfolio() {
         <img
           className="d-block w-100"
           src={ Workout }
-          alt="Fifth slide"
+          alt="Sixth slide"
         />
         <Carousel.Caption>
           <h3 className="label3">Workout Tracker</h3>
@@ -90,7 +103,7 @@ export function Portfolio() {
         <img
           className="d-block w-100"
           src={ Weather }
-          alt="Sixth slide"
+          alt="Seventh slide"
         />
         <Carousel.Caption>
           <h3 className="label3">Weather Dashboard</h3>
