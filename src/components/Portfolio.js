@@ -31,7 +31,7 @@ export function Portfolio() {
         />
         <Carousel.Caption>
           <h3 className="caption">Project 2 - Cocktail_Coterie</h3>
-          <p className="carouselText"><a href="https://github.com/AuroraBrune/cocktail_coterie" target="_blank" rel="noopener noreferrer">Link to GitHub Repo</a>  |  <a href="https://cocktail-coterie.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link to Deployed App</a></p>
+          <p className="carouselText"><a href="https://github.com/JulieAnn2330/cocktail_coterie" target="_blank" rel="noopener noreferrer">Link to GitHub Repo</a>  |  <a href="https://cocktail-coterie.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link to Deployed App</a></p>
         </Carousel.Caption>
       </Carousel.Item>
 
@@ -44,7 +44,7 @@ export function Portfolio() {
         <Carousel.Caption>
           <h3 className="caption">NASA/SpaceX Flight Data</h3>
           <p className="carouselText">
-          <a href="https://github.com/reidbuckingham48/spacex-nasa-flight-data" target="_blank" rel="noopener noreferrer">Link to GitHub Repo</a>  |  <a href="https://reidbuckingham48.github.io/spacex-nasa-flight-data/" target="_blank" rel="noopener noreferrer">Link to Deployed App</a>
+          <a href="https://github.com/JulieAnn2330/spacex-nasa-flight-data" target="_blank" rel="noopener noreferrer">Link to GitHub Repo</a>  |  <a href="https://reidbuckingham48.github.io/spacex-nasa-flight-data/" target="_blank" rel="noopener noreferrer">Link to Deployed App</a>
           </p>
         </Carousel.Caption>
       </Carousel.Item>
