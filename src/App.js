@@ -1,7 +1,7 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import "./styles.css";
 import React from "react";
-import { Portfolio } from './components/Portfolio';
+import { Portfolio } from './components/Portfolio/Portfolio';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Navigation } from './components/Navigation';
 import { Contact } from './components/Contact';
