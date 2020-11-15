@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0709bea023f5c12b0be97d693c3331be",
+    "revision": "d48c598a2b38de483e11ae38a2ad5e9b",
     "url": "/jschaub-portfolio/index.html"
   },
   {
-    "revision": "13fda89aba35764aa310",
-    "url": "/jschaub-portfolio/static/css/2.2a86faee.chunk.css"
+    "revision": "a088bc532ae3f9a57974",
+    "url": "/jschaub-portfolio/static/css/2.18e79894.chunk.css"
   },
   {
-    "revision": "1b6c500d3ef6be7e20d6",
-    "url": "/jschaub-portfolio/static/css/main.cbe513a9.chunk.css"
+    "revision": "254995adf39b1e5814a4",
+    "url": "/jschaub-portfolio/static/css/main.00e9a817.chunk.css"
   },
   {
-    "revision": "13fda89aba35764aa310",
-    "url": "/jschaub-portfolio/static/js/2.bd48c5db.chunk.js"
+    "revision": "a088bc532ae3f9a57974",
+    "url": "/jschaub-portfolio/static/js/2.87df6429.chunk.js"
   },
   {
     "revision": "c4381524cae000488e2fb889012466d0",
-    "url": "/jschaub-portfolio/static/js/2.bd48c5db.chunk.js.LICENSE.txt"
+    "url": "/jschaub-portfolio/static/js/2.87df6429.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b6c500d3ef6be7e20d6",
-    "url": "/jschaub-portfolio/static/js/main.7e7775f4.chunk.js"
+    "revision": "254995adf39b1e5814a4",
+    "url": "/jschaub-portfolio/static/js/main.6d4f5e1b.chunk.js"
   },
   {
     "revision": "12f334364d66c5f00e00",
@@ -40,8 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jschaub-portfolio/static/media/Employee.8719ad35.PNG"
   },
   {
-    "revision": "9f8089dd98377cd8b7d442b580b16769",
-    "url": "/jschaub-portfolio/static/media/Julie Schaub Resume.9f8089dd.pdf"
+    "revision": "02e716cc241b88e8628646c68a06bea5",
+    "url": "/jschaub-portfolio/static/media/GoogleBooks.02e716cc.PNG"
+  },
+  {
+    "revision": "134c526383bc0f960d5b60949c1f1984",
+    "url": "/jschaub-portfolio/static/media/Julie Schaub Resume.134c5263.pdf"
   },
   {
     "revision": "ddf55214c369691005fef2a2c0d53bc5",
@@ -50,14 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71996e208efe365db73fec90b1715854",
     "url": "/jschaub-portfolio/static/media/Technical-Writing-Sample.71996e20.pdf"
-  },
-  {
-    "revision": "ea2cce0cbc547cb8cec6b136913fa3e8",
-    "url": "/jschaub-portfolio/static/media/Weather.ea2cce0c.PNG"
-  },
-  {
-    "revision": "22fc2ecbb21a55e8eb408fd1735e7abf",
-    "url": "/jschaub-portfolio/static/media/Workout.22fc2ecb.PNG"
   },
   {
     "revision": "f6addc79d3fc7a8af464106bf55be09d",
@@ -74,5 +70,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59ff292cbba12354a70009e12227854b",
     "url": "/jschaub-portfolio/static/media/new-profile-pic.59ff292c.png"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/jschaub-portfolio/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/jschaub-portfolio/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/jschaub-portfolio/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/jschaub-portfolio/static/media/slick.f97e3bbf.svg"
   }
 ]);
