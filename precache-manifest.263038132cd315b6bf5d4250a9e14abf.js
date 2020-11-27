@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d48c598a2b38de483e11ae38a2ad5e9b",
+    "revision": "7e64148e23434bcb90ea2713af95fac8",
     "url": "/jschaub-portfolio/index.html"
   },
   {
-    "revision": "a088bc532ae3f9a57974",
+    "revision": "0ff5106cd2410b68eb79",
     "url": "/jschaub-portfolio/static/css/2.18e79894.chunk.css"
   },
   {
-    "revision": "254995adf39b1e5814a4",
-    "url": "/jschaub-portfolio/static/css/main.00e9a817.chunk.css"
+    "revision": "3f45ff4b4efadcca67b4",
+    "url": "/jschaub-portfolio/static/css/main.973614e1.chunk.css"
   },
   {
-    "revision": "a088bc532ae3f9a57974",
-    "url": "/jschaub-portfolio/static/js/2.87df6429.chunk.js"
+    "revision": "0ff5106cd2410b68eb79",
+    "url": "/jschaub-portfolio/static/js/2.83bac5ab.chunk.js"
   },
   {
     "revision": "c4381524cae000488e2fb889012466d0",
-    "url": "/jschaub-portfolio/static/js/2.87df6429.chunk.js.LICENSE.txt"
+    "url": "/jschaub-portfolio/static/js/2.83bac5ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "254995adf39b1e5814a4",
-    "url": "/jschaub-portfolio/static/js/main.6d4f5e1b.chunk.js"
+    "revision": "3f45ff4b4efadcca67b4",
+    "url": "/jschaub-portfolio/static/js/main.d8b3f961.chunk.js"
   },
   {
     "revision": "12f334364d66c5f00e00",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jschaub-portfolio/static/media/GoogleBooks.02e716cc.PNG"
   },
   {
-    "revision": "134c526383bc0f960d5b60949c1f1984",
-    "url": "/jschaub-portfolio/static/media/Julie Schaub Resume.134c5263.pdf"
+    "revision": "ede93ccffca9aaf9faa5b6a90ad213b1",
+    "url": "/jschaub-portfolio/static/media/Julie Schaub Resume.ede93ccf.pdf"
   },
   {
     "revision": "ddf55214c369691005fef2a2c0d53bc5",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71996e208efe365db73fec90b1715854",
     "url": "/jschaub-portfolio/static/media/Technical-Writing-Sample.71996e20.pdf"
+  },
+  {
+    "revision": "c176ee07fdd26943197212ba07773bf3",
+    "url": "/jschaub-portfolio/static/media/Trips2.c176ee07.PNG"
   },
   {
     "revision": "f6addc79d3fc7a8af464106bf55be09d",
