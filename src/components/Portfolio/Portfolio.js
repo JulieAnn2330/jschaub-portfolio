@@ -19,6 +19,14 @@ export function Portfolio() {
 
   const products = [
     {
+      img: require('../../images/Trips2.PNG'),
+      title: 'Project 3 - Destination Globetrotter',
+      description: 'Description of Project: Destination Globetrotter is the travel planning app for High School Reunions, Family Reunions and other group travel! Discover a collaborative approach to travel planning through in-app group messaging and personal invites to trips!',
+      technologies: 'Technologies Used: Axios, bCrypt, Bootstrap, CSS, HTML, Express, MySQL, Node, Path, Passport, PubNub API, React, Sequelize, Tequila API',
+      deploy: "https://destinationglobetrotter.herokuapp.com/" ,
+      git: "https://github.com/JulieAnn2330/destination-globetrotter-2330"
+    },
+    {
       img: require('../../images/Cocktail_Coterie.PNG'),
       title: 'Project 2 - Cocktail_Coterie',
       description: 'Description of Project: This app allows the user in seclusion during the covid pandemic to socialize with friends while staying safe at home. The user can organize an online cocktail party and stay socially connected with friends. Searching for a favorite cocktail by ingredient will bring up recipes containing that ingredient.',
@@ -75,7 +83,7 @@ export function Portfolio() {
   return (
     <div className="App">
     <Helmet>
-    <style>{'body { background-color: slategray; }'}</style>
+    <style>{'body { background-color: black; }'}</style>
     </Helmet>
     <h1 className="portfolioLabel">Portfolio Work</h1>
       {/* <h3>Carousel Slider in React - <a href="https://www.cluemediator.com" target="_blank">Clue Mediator</a></h3>

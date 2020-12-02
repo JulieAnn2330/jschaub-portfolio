@@ -91,7 +91,7 @@ export function Contact() {
   return (
     <div>
       <Helmet>
-         <style>{'body { background-color: slategray; }'}</style>
+         <style>{'body { background-color: black; }'}</style>
       </Helmet>
       <Col xs lg="6">
          <ul class="is-bullet">

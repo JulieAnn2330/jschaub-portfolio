@@ -9,7 +9,7 @@ export const About = () => {
 
    <div>   
    <Helmet>
-   <style>{'body { background-color: slategray; }'}</style>
+   <style>{'body { background-color: black; }'}</style>
    </Helmet>
     <Row>
     <Col md="auto"><img className="imageProfile" src={ PortfolioPic } alt="Julie Ann Schaub"></img></Col>
