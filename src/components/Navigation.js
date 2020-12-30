@@ -7,8 +7,8 @@ const Styles = styled.div`
   .navbar { background-color: transparent}
   a, .navbar-nav, .navbar-light .nav-link {
     color: white;
-        &:hover { color: red; };
-        &:visited { color: blue }
+        &:hover { color: white; };
+        &:visited { color: red }
   `;
 export const Navigation = () => (
   <Styles>
