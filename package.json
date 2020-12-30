@@ -23,7 +23,11 @@
     "reactstrap": "^8.6.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^4.3.2",
-    "util": "^0.12.3"
+    "util": "^0.12.3",
+    "babel-jest": "^24.9.0"
+    
+
+
   },
   "scripts": {
     "predeploy": "npm run build",
